@@ -86,17 +86,31 @@
             contenedor.innerHTML = ''; 
 
             datos.forEach((receta, index) => {
-                const item = `
+               const item = `
                     <div class="michi-item">
                         <button class="michi-boton" onclick="toggleReceta(${index})">
                             ${receta.nombre}
                         </button>
                         <div id="receta-${index}" class="michi-contenido">
+                            
+                            ${receta.configuracion ? `
+                            <div class="seccion-header">⚙️ Configuración</div>
+                            <div class="cuerpo">${receta.configuracion}</div>
+                            ` : ''}
+
                             <div class="seccion-header">🌸 Ingredientes</div>
                             <div class="cuerpo">${receta.ingredientes}</div>
                             
+                            ${receta.procedimiento ? `
                             <div class="seccion-header">☁️ Pasos a seguir</div>
                             <div class="cuerpo">${receta.procedimiento}</div>
+                            ` : ''}
+
+                            ${receta.tips ? `
+                            <div class="seccion-header">💡 Secreto de Liz</div>
+                            <div class="cuerpo"><em>${receta.tips}</em></div>
+                            ` : ''}
+
                         </div>
                     </div>
                 `;
