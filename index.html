@@ -3,34 +3,79 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recetario Yelmo Familiar</title>
+    <title>Miau-Recetario de Liz</title>
     <style>
-        :root { --cafe: #5C3A21; --crema: #FDF6E3; --oro: #D4A373; --blanco: #FFFFFF; }
-        body { font-family: 'Segoe UI', sans-serif; background-color: var(--crema); color: var(--cafe); margin: 0; padding: 20px; }
-        header { text-align: center; padding-bottom: 20px; border-bottom: 2px solid var(--oro); margin-bottom: 20px; }
-        .receta-card { background: var(--blanco); border-radius: 15px; padding: 20px; margin-bottom: 25px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
-        .titulo-receta { color: var(--cafe); font-size: 1.6rem; margin: 0 0 15px 0; text-align: center; text-transform: uppercase; letter-spacing: 1px; }
-        .seccion { margin-bottom: 15px; }
-        .seccion-header { display: flex; align-items: center; color: var(--oro); font-weight: bold; text-transform: uppercase; font-size: 0.9rem; margin-bottom: 8px; border-bottom: 1px solid #f0f0f0; padding-bottom: 4px; }
-        .cuerpo { white-space: pre-line; line-height: 1.6; font-size: 1.05rem; padding-left: 5px; }
-        .footer-nota { text-align: center; font-size: 0.8rem; color: var(--oro); margin-top: 40px; }
+        :root { 
+            --rosa-kawaii: #FFD1DC; 
+            --lavanda: #E6E6FA; 
+            --texto-michi: #4A4A4A; 
+            --blanco-nube: #FFFFFF; 
+            --fresa: #FF85A2;
+        }
+        body { 
+            font-family: 'Comic Sans MS', 'Segoe UI', cursive, sans-serif; 
+            background-color: var(--rosa-kawaii); 
+            color: var(--texto-michi); 
+            margin: 0; padding: 20px; 
+        }
+        header { 
+            text-align: center; padding: 10px; 
+            background: var(--blanco-nube); border-radius: 20px;
+            border: 3px dashed var(--fresa); margin-bottom: 20px; 
+        }
+        h1 { margin: 5px 0; font-size: 1.8rem; color: var(--fresa); }
+
+        /* Estilo de la lista desplegable */
+        .michi-item {
+            background: var(--blanco-nube); border-radius: 15px;
+            margin-bottom: 12px; overflow: hidden;
+            border: 2px solid var(--lavanda);
+            box-shadow: 3px 3px 0px var(--lavanda);
+        }
+        .michi-boton {
+            width: 100%; padding: 15px; text-align: left;
+            background: none; border: none; cursor: pointer;
+            font-size: 1.1rem; font-weight: bold; color: var(--texto-michi);
+            display: flex; justify-content: space-between; align-items: center;
+        }
+        .michi-boton::before { content: '🐾'; margin-right: 10px; }
+        .michi-boton::after { content: '▼'; font-size: 0.8rem; color: var(--fresa); }
+
+        .michi-contenido {
+            max-height: 0; overflow: hidden;
+            transition: max-height 0.3s ease-out;
+            background: #fffafa; padding: 0 15px;
+        }
+        .michi-contenido.abierto {
+            max-height: 1000px; padding: 15px;
+            border-top: 1px dashed var(--rosa-kawaii);
+        }
+
+        .seccion-header { 
+            color: var(--fresa); font-weight: bold; 
+            font-size: 0.9rem; margin-top: 10px;
+        }
+        .cuerpo { 
+            white-space: pre-line; line-height: 1.5; 
+            font-size: 1rem; padding: 5px 0;
+        }
+        .footer-nota { text-align: center; font-size: 0.8rem; margin-top: 30px; }
     </style>
 </head>
 <body>
 
 <header>
-    <h1>🍞 Recetario Yelmo</h1>
-    <small>Versión Oficial - Actualizado por Liz</small>
+    <h1>🐱 Recetario de Liz 🐱</h1>
+    <small>¡Hecho con amor y harina! ✨</small>
 </header>
 
 <div id="contenedor-recetas">
-    <p style="text-align: center;">Buscando novedades en la cocina...</p>
+    <p style="text-align: center;">Buscando las huellitas...</p>
 </div>
 
-<div class="footer-nota">Si no ves las últimas recetas, conectate a internet un segundo.</div>
+<div class="footer-nota">Si no hay recetas, ¡Flora se las comió! 🐾</div>
 
 <script>
-    // IMPORTANTE: Reemplazá este link por el link RAW de tu archivo recetas.json
     const URL_JSON = "https://raw.githubusercontent.com/ruizdiazlizdiana-art/Recetario-Pan/main/recetas.json";
 
     async function obtenerRecetas() {
@@ -38,31 +83,33 @@
         try {
             const respuesta = await fetch(URL_JSON);
             const datos = await respuesta.json();
-            
-            contenedor.innerHTML = ''; // Limpiamos el mensaje de carga
+            contenedor.innerHTML = ''; 
 
-            datos.forEach(receta => {
-                const card = `
-                    <div class="receta-card">
-                        <h2 class="titulo-receta">${receta.nombre}</h2>
-                        
-                        <div class="seccion">
-                            <div class="seccion-header">📋 Ingredientes y Cantidades</div>
+            datos.forEach((receta, index) => {
+                const item = `
+                    <div class="michi-item">
+                        <button class="michi-boton" onclick="toggleReceta(${index})">
+                            ${receta.nombre}
+                        </button>
+                        <div id="receta-${index}" class="michi-contenido">
+                            <div class="seccion-header">🌸 Ingredientes</div>
                             <div class="cuerpo">${receta.ingredientes}</div>
-                        </div>
-
-                        <div class="seccion">
-                            <div class="seccion-header">👨‍🍳 Procedimiento</div>
+                            
+                            <div class="seccion-header">☁️ Pasos a seguir</div>
                             <div class="cuerpo">${receta.procedimiento}</div>
                         </div>
                     </div>
                 `;
-                contenedor.innerHTML += card;
+                contenedor.innerHTML += item;
             });
         } catch (error) {
-            contenedor.innerHTML = '<p style="text-align: center;">Ups! No pude cargar las recetas. <br> Revisá tu conexión a internet.</p>';
-            console.error(error);
+            contenedor.innerHTML = '<p>Miau... hubo un error al cargar.</p>';
         }
+    }
+
+    function toggleReceta(index) {
+        const contenido = document.getElementById(`receta-${index}`);
+        contenido.classList.toggle('abierto');
     }
 
     obtenerRecetas();
