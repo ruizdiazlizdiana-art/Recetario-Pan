@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recetario Yelmo Familiar</title>
+    <style>
+        :root { --cafe: #5C3A21; --crema: #FDF6E3; --oro: #D4A373; --blanco: #FFFFFF; }
+        body { font-family: 'Segoe UI', sans-serif; background-color: var(--crema); color: var(--cafe); margin: 0; padding: 20px; }
+        header { text-align: center; padding-bottom: 20px; border-bottom: 2px solid var(--oro); margin-bottom: 20px; }
+        .receta-card { background: var(--blanco); border-radius: 15px; padding: 20px; margin-bottom: 25px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
+        .titulo-receta { color: var(--cafe); font-size: 1.6rem; margin: 0 0 15px 0; text-align: center; text-transform: uppercase; letter-spacing: 1px; }
+        .seccion { margin-bottom: 15px; }
+        .seccion-header { display: flex; align-items: center; color: var(--oro); font-weight: bold; text-transform: uppercase; font-size: 0.9rem; margin-bottom: 8px; border-bottom: 1px solid #f0f0f0; padding-bottom: 4px; }
+        .cuerpo { white-space: pre-line; line-height: 1.6; font-size: 1.05rem; padding-left: 5px; }
+        .footer-nota { text-align: center; font-size: 0.8rem; color: var(--oro); margin-top: 40px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>🍞 Recetario Yelmo</h1>
+    <small>Versión Oficial - Actualizado por Liz</small>
+</header>
+
+<div id="contenedor-recetas">
+    <p style="text-align: center;">Buscando novedades en la cocina...</p>
+</div>
+
+<div class="footer-nota">Si no ves las últimas recetas, conectate a internet un segundo.</div>
+
+<script>
+    // IMPORTANTE: Reemplazá este link por el link RAW de tu archivo recetas.json
+    const URL_JSON = "https://raw.githubusercontent.com/ruizdiazlizdiana-art/Recetario-Yelmo/main/recetas.json";
+
+    async function obtenerRecetas() {
+        const contenedor = document.getElementById('contenedor-recetas');
+        try {
+            const respuesta = await fetch(URL_JSON);
+            const datos = await respuesta.json();
+            
+            contenedor.innerHTML = ''; // Limpiamos el mensaje de carga
+
+            datos.forEach(receta => {
+                const card = `
+                    <div class="receta-card">
+                        <h2 class="titulo-receta">${receta.nombre}</h2>
+                        
+                        <div class="seccion">
+                            <div class="seccion-header">📋 Ingredientes y Cantidades</div>
+                            <div class="cuerpo">${receta.ingredientes}</div>
+                        </div>
+
+                        <div class="seccion">
+                            <div class="seccion-header">👨‍🍳 Procedimiento</div>
+                            <div class="cuerpo">${receta.procedimiento}</div>
+                        </div>
+                    </div>
+                `;
+                contenedor.innerHTML += card;
+            });
+        } catch (error) {
+            contenedor.innerHTML = '<p style="text-align: center;">Ups! No pude cargar las recetas. <br> Revisá tu conexión a internet.</p>';
+            console.error(error);
+        }
+    }
+
+    obtenerRecetas();
+</script>
+
+</body>
+</html>
