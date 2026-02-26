@@ -1,5 +1,103 @@
 [
   {
+    "nombre": "PAN INTEGRAL \"MALTA Y MIEL\" – 1 KG (Resumen)",
+    "configuracion": "Programa: 1\nPeso: 1000 g\nCorteza: Claro (Light)",
+    "ingredientes": "ETAPA 1: El Espumado\n• 80 ml (o g) de Agua.\n• 12 g de Levadura fresca (descongelada).\n• 1 cucharadita de Miel.\n\nETAPA 2: Líquidos\n• 260 g de Leche entera.\n• 40 g de Aceite (girasol o maíz).\n• 10 g (1 cucharadita generosa) de Extracto de Malta.\n• 15 g de Miel.\n• Toda la espuma de la Etapa 1.\n\nETAPA 3: Secos\n• 410 g de Harina Integral fina.\n• 150 g de Harina 000.\n\nETAPA 4: Condimento\n• 2 cucharaditas de Sal (aprox. 10 g).",
+    "procedimiento": "",
+    "tips": "Tip: Calentá la cuchara con agua hirviendo antes de sacar el extracto de malta del frasco."
+  },
+  {
+    "nombre": "PAN BLANCO \ – 1 KG",
+    "configuracion": "Programa: 1 (Pan Básico)\nPeso: 1000 g\nCorteza: Claro (Light)",
+    "ingredientes": "ETAPA 1: El Espumado (Activación)\n• 80 g de Agua tibia (no caliente).\n• 12 g de Levadura fresca (desmenuzada).\n• 10 g de Azúcar (1 cucharadita).\n\nETAPA 2: Líquidos (Primero en la cubeta)\n• 280 g de Agua a temperatura ambiente.\n• 50 g de Aceite (girasol o maíz).\n• 15 g de Azúcar (lo que sobró del total).\n• Toda la espuma de la Etapa 1.\n\nETAPA 3: Secos (Sobre los líquidos)\n• 580 g de Harina 000 (o 0000 si lo querés más tipo \"lactal\").\n• 40 g de Leche en polvo (esto le da el sabor y la textura \"premium\").\n\nETAPA 4: Condimento (En una esquina)\n• 12 g de Sal (aproximadamente 2 cucharaditas).",
+    "procedimiento": "Hacelo en un vasito aparte 10 minutos antes de arrancar. Mezclá bien y esperá a que se forme la espuma. Recordá dejar la sal en un rincón, lejos del centro donde está la levadura.",
+    "tips": "Secretos:\n* Vigilancia del primer amasado: A los 5 o 7 minutos de empezar el programa 1, abrí la tapa. La masa debe ser una bola lisa y elástica que no se pegue a las paredes. Si ves que está muy \"chilre\" (pegajosa), agregá una lluvia de harina; si está muy dura, un chorrito de agua.\n* El reemplazo de la manteca: El aceite hace que el pan sea más elástico, pero la leche en polvo es la que realmente aporta la estructura. No saltees el espumado inicial, eso garantiza que el pan suba derecho.\n* Apenas la máquina pite el final del horneado, sacá el pan inmediatamente. Envolvelo en el repasador de algodón y metelo en la bolsa de nylon mientras esté caliente. Ese vapor atrapará la humedad y te dejará un pan que parece de algodón."
+  },
+  {
+    "nombre": "Receta Pan Árabe 50/50",
+    "configuracion": "Función 10",
+    "ingredientes": "• Agua tibia: 300 g (total, incluyendo el espumado).\n• Levadura fresca: 12 g.\n• Miel: 1 cdta (para el dorado).\n• Harina Integral fina: 250 g.\n• Harina 000: 250 g.\n• Aceite de oliva: 2 cdas (clave para la elasticidad).\n• Sal: 1 cdta y media.",
+    "procedimiento": "",
+    "tips": ""
+  },
+  {
+    "nombre": "Pan de Queso y Orégano (1 kg)",
+    "configuracion": "Programa: 1 (Básico) o 4 (Francés)\nCorteza Clara.",
+    "ingredientes": "• Agua tibia (275g)\n• Manteca derretida (35g)\n• Harina 0000 (550g)\n• Leche en polvo (15g)\n• Azúcar (6g)\n• Sal (10g)\n• Levadura seca (4g)\n• Queso rallado duro (90g)\n• Orégano (1 cda)",
+    "procedimiento": "",
+    "tips": ""
+  },
+  {
+    "nombre": "PAN INTEGRAL \"EL CLÁSICO\" – 1 KG",
+    "configuracion": "Programa: 1 (Pan Básico)\nPeso: 1000 g\nCorteza: Claro (Light) — Al no tener malta, no va a oscurecerse tanto.",
+    "ingredientes": "ETAPA 1: El Espumado (Activación)\n• 80 g de Agua tibia.\n• 12 g de Levadura fresca.\n• 1 cucharadita de Azúcar.\n\nETAPA 2: Líquidos (Primero en la cubeta)\n• 260 g de Leche entera.\n• 65 g de Aceite (girasol o maíz).\n• 35 g de Azúcar común.\n• Toda la espuma de la Etapa 1.\n\nETAPA 3: Secos (Sobre los líquidos)\n• 410 g de Harina Integral fina.\n• 150 g de Harina 000.\n• 30g de leche en polvo (3 cucharas soperas colmadas aprox).\n\nETAPA 4: Condimento (En una esquina)\n• 2 cucharaditas de Sal (unos 10 g).",
+    "procedimiento": "1. Mezclá la Etapa 1 y dejá que se arme la esponja 10-15 minutos.\n2. Colocá todo en orden en la máquina.",
+    "tips": "Recordá: la sal lejos del huequito de la levadura."
+  },
+  {
+    "nombre": "Masa de Pizza \"Pizzeria\" (Piso Crocante + Borde Aireado)",
+    "configuracion": "Programa: 10 (Masa).",
+    "ingredientes": "• Agua fría o apenas tibia (360g)\n• Aceite (20g)\n• Harina 000 (600g)\n• Sal (12g)\n• Azúcar (2g)\n• Levadura seca (solo 2g para evitar gusto a levadura).",
+    "procedimiento": "",
+    "tips": "Secreto de Cocción: Precalentá el horno al máximo y poné la pizza bien abajo para lograr el piso crocante."
+  },
+  {
+    "nombre": "Masa para Sorrentinos",
+    "configuracion": "Programa: 11 (Amasar) por 10-15 min.",
+    "ingredientes": "• Harina 0000 (300g)\n• 2 huevos\n• Aceite de ajo (10g)\n• Sal (1/2 cdta).",
+    "procedimiento": "",
+    "tips": "Lección: Fundamental dejarla descansar 20 min antes de estirar para que sea flexible."
+  },
+  {
+    "nombre": "Pan de Miga Perfecto (1 kg)",
+    "configuracion": "Programa: 1 (Básico) o 12 (Sándwich - si tu modelo lo tiene, si no, el 1 va perfecto).\nPeso: 1000 g.\nCorteza: CLARA (Fundamental: no queremos nada de color).",
+    "ingredientes": "1. Leche entera tibia: 180 g.\n2. Agua: 100 g.\n3. Manteca blanda (punto pomada): 60 g (esto es lo que da el sabor a \"miga\" de panadería).\n4. Miel: 15 g (ayuda a que la miga sea elástica y no se desgrane al cortarla).\n5. Harina 0000: 550 g (sí o sí 0000, la 000 es muy rústica para esto).\n6. Azúcar: 25 g.\n7. Sal: 12 g (en una esquina).\n8. Levadura fresca: 18-20 g (con los líquidos).\n9. Agua: 50g para espumar la levadura con una cucharadita de azúcar y una cucharada de harina.",
+    "procedimiento": "",
+    "tips": "El truco para que parezca de Panadería:\n1. El vapor: Cuando la máquina empiece a hornear, podés pincelar la parte de arriba con un poquito de leche.\n2. El \"Efecto Humedad\": Apenas termine el programa, sacá el pan de la cubeta inmediatamente.\n3. El sudado: Envolvé el pan todavía caliente en un repasador de algodón limpio y después metelo adentro de una bolsa de nylon. Dejalo enfriar ahí adentro. Esto hace que el vapor que desprende el pan \"ablande\" la poca corteza que se formó.\n4. El reposo: Para cortar las láminas finas de la torta, el pan DEBE estar frío de heladera. Si lo cortás tibio, se te va a apelmazar la miga."
+  },
+  {
+    "nombre": "PAN INTEGRAL \"MALTA Y MIEL\" – 1 KG",
+    "configuracion": "Programa: 1 (Pan Básico)\nPeso: 1000 g\nCorteza: Claro (Light) — El extracto de malta ya aporta mucho color.",
+    "ingredientes": "ETAPA 1: El Espumado\n• 80 ml (o g) de Agua tibia.\n• 12 g de Levadura fresca (descongelada).\n• 1 cucharadita de Miel.\n\nETAPA 2: Líquidos (Primero en la cubeta)\n• 260 g de Leche entera (a temperatura ambiente).\n• 40 g de Aceite (girasol o maíz).\n• 10 g (1 cucharadita generosa) de Extracto de Malta.\n• 15 g de Miel.\n• Toda la espuma de la Etapa 1.\n\nETAPA 3: Secos (Sobre los líquidos)\n• 410 g de Harina Integral fina.\n• 150 g de Harina 000.\n\nETAPA 4: Condimento (En una esquina)\n• 2 cucharaditas de Sal (aprox. 10 g).",
+    "procedimiento": "1. Mezclá bien los ingredientes de la Etapa 1 y esperá a que haga esa espuma tipo esponja.\n2. Agregá los líquidos de la Etapa 2 en la cubeta.\n3. Sumá los secos de la Etapa 3.\n4. Poné la sal (Etapa 4) lejos del huequito de la levadura hasta que arranque el amasado.",
+    "tips": "Tip: Calentá la cuchara con agua hirviendo antes de sacar el extracto de malta del frasco para que resbale fácil."
+  },
+    {
+    "nombre": "🎄✨ PAN DULCE PREMIUM – 750 g",
+    "configuracion": "Programa 4 – PAN FRANCÉS (4 h total) → es el que mejor desarrolla miga hilada en tu máquina.\nTamaño: 750 g / 1 lb\nCorteza: CLARA o MEDIA (NO oscuro, reseca el pan dulce)",
+    "ingredientes": "LÍQUIDOS (primero en la cubeta):\n• Leche: 110 g\n• Huevos: 2 unidades grandes (aprox. 100 g)\n• Manteca derretida (apenas tibia): 60 g\n• Miel: 20 g\n• Esencia de vainilla: 1 cda\n• Ralladura de 1 limón (solo parte amarilla)\n\nSECOS (encima de los líquidos):\n• Harina 0000: 350 g\n• Azúcar: 70 g\n• Sal: 5 g (en una esquina)\n\nLEVADURA:\n• Levadura fresca: 12 g (la cantidad justa para 4 h sin gusto fuerte)\n\nAGREGADOS:\n• Chips de chocolate o frutos abrillantados: 80–100 g (*NO* pongas aún los chips ni las frutas)",
+    "procedimiento": "",
+    "tips": "🔔 AGREGADO DE FRUTAS / CHIPS: Cuando la máquina haga el bip de agregado (siempre alrededor del minuto 30–32), ahí SÍ ponés los chips o las frutas abrillantadas."
+  },
+  {
+    "nombre": "🥣 PAN DULCE – VERSIÓN MEJORADA Para ~750 g",
+    "configuracion": "*BIP PAN DULCE 2:45*",
+    "ingredientes": "1️⃣ LÍQUIDOS\n1. Leche tibia – 100 g (baja solo un poco porque metemos 2 huevos)\n2. Huevos – 2 (≈100 g) (más miga hilada, más humedad, más estructura brioche)\n3. Yogur natural – 50 g (para humedad extra)\n4. Miel – 30 g (¡subimos la miel! más humedad, más aroma y más dulzor)\n5. Esencia de vainilla – 1½ cucharadas\n6. Ralladura de 1 limón + ½ naranja\n7. Manteca derretida/templada – 50 g (aumentamos porque querías más humedad)\n\n2️⃣ AZÚCARES\n8. Azúcar común – 50 g\n9. Azúcar mascabo – 50 g (pasamos de 70 totales → ahora 100 g totales = MÁS DULCE DE VERDAD)\n\n3️⃣ SECOS\n10. Harina 000 – 250 g\n11. Harina 0000 o 000 – 130 g (total harina: 380 g → se ajusta por 2 huevos + más manteca + más miel)\n12. Sal – 6 g (esquina)\n\n4️⃣ LEVADURA\n13. Levadura fresca – 15 g (subimos un poquito: con más azúcar + más grasa lo necesita)\n\n5️⃣ AGREGADOS (cuando bipée o mitad amasado)\n14. Avellanas picadas grueso – 50 g\n15. Chips de chocolate – 60 g",
+    "procedimiento": "",
+    "tips": "Tirar los chips fríos de heladera para que no se derritan durante el amasado. Si querés que no se hundan, pasalos por 1 cdta de harina."
+  },
+  {
+    "nombre": "Pan dulce (sale bien si se saca 15’ antes) *la mejor receta*",
+    "configuracion": "Programa 3 – PAN DULCE (4 h total)\nTamaño: 750 g / 1 lb\nCorteza: CLARA",
+    "ingredientes": "LÍQUIDOS (primero en la cubeta):\n• Leche: 110 g\n• Huevos: 2 unidades grandes (aprox. 100 g)\n• Manteca derretida (apenas tibia): 60 g\n• Miel: 20 g (30g)\n• Esencia de vainilla: 1 cda\n• Ralladura de 1 limón (solo parte amarilla)\n\nSECOS (encima de los líquidos):\n• Harina 0000 o 000: 350 g\n• Azúcar: 70 g (85g)\n• Sal: 5 g (en una esquina)\n\nLEVADURA:\n• Levadura fresca: 12 g\n\nAGREGADOS:\n• Chips de chocolate o frutos abrillantados: 80–100 g",
+    "procedimiento": "",
+    "tips": "Salió seco, buena masa. CUANDO FALTA 2:45 AGREGAR FRUTAS O CHIPS. El programa 3 es el que mejor desarrolla miga hilada en tu máquina. Sacalo 15' antes de que termine el programa."
+  },
+  {
+    "nombre": "Pan Integral Húmedo y Tierno (Versión Definitiva)",
+    "configuracion": "Programa: 4 (Pan Francés)\nPeso 1000g\nCorteza Clara.",
+    "ingredientes": "Orden de carga:\n• Leche (220g)\n• Yogur natural (50g)\n• Agua a temperatura ambiente (80g)\n• Aceite de oliva (35g)\n• Miel (25g)\n• Harina integral fina (410g)\n• Harina 000 (150g)\n• Sal (10g)\n• Levadura fresca (11-12g para evitar olor a levadura)",
+    "procedimiento": "Después de varios intentos secos, esta es la fórmula que no falla para 1 kg.",
+    "tips": "Lección Aprendida: El yogur, la miel y el aceite son los que retienen la humedad que la harina integral suele absorber."
+  },
+  {
+    "nombre": "Pan Dulce Definitivo (Tu última versión optimizada)",
+    "configuracion": "Ajustado para que NO se queme y sea realmente dulce.",
+    "ingredientes": "• Líquidos: Leche (120g), 2 huevos (100g), Manteca derretida tibia (60g), Miel (30g), Esencia de vainilla (1 cda), Ralladura de 1 limón.\n• Secos: Harina 0000 (250g) + Harina 000 (100g), Azúcar (85g), Sal (5g).\n• Levadura: Levadura seca (6g) o Fresca (12g).\n• Agregados (al Bip a las 2:45 restantes): Chips o frutas (90-110g).",
+    "procedimiento": "",
+    "tips": "El Truco Anti-Quemado: Sacalo 10-15 minutos antes de que termine el programa (aunque esté en \"Claro\") para evitar que se seque o tueste de más."
+  },
+    {
     "nombre": "El \"Black Out\" (Pan de Cerveza Negra, Cacao y Miel)",
     "configuracion": "Programa: 4 (Pan Francés) – Necesitamos ese tiempo extra de levado.\nPeso: 750 g\nCorteza: Clara (por el azúcar de la cerveza, se dora rápido).",
     "ingredientes": "1. Cerveza Negra (tipo Stout o Porter): 240 g (abrí la lata 15 min antes para que pierda el gas).\n2. Miel: 40 g (aporta humedad y profundidad).\n3. Aceite de oliva: 20 g.\n4. Harina 000: 420 g.\n5. Cacao amargo en polvo: 20 g (no uses Nesquik, tiene que ser amargo).\n6. Sal: 8 g (en una esquina).\n7. Levadura seca: 5 g (en el huequito central).\n8. Al Bip: 50 g de nueces tostadas o semillas de girasol.",
@@ -40,103 +138,5 @@
     "ingredientes": "1. Puré de peras muy maduras (procesadas): 200 g.\n2. Agua tibia: 80 g.\n3. Manteca derretida: 30 g.\n4. Harina 000: 500 g.\n5. Azúcar mascabo: 25 g.\n6. Sal: 5 g (poné poca porque el queso azul ya es salado).\n7. Levadura fresca: 15 g (desmenuzada).\n8. Al Bip: 70 g de Queso Azul (en cubitos bien fríos del freezer, para que no se deshagan rápido) y 50 g de nueces partidas.",
     "procedimiento": "",
     "tips": "Tip Yelmo: Este pan es \"peligroso\" por la humedad de la pera. Si al tocar la masa en el segundo amasado la sentís muy blanda, no te asustes, es normal. Al enfriarse, el queso azul se solidifica y queda una estructura espectacular."
-  },
-  {
-    "nombre": "Pan de Miga Perfecto (1 kg)",
-    "configuracion": "Programa: 1 (Básico) o 12 (Sándwich - si tu modelo lo tiene, si no, el 1 va perfecto).\nPeso: 1000 g.\nCorteza: CLARA (Fundamental: no queremos nada de color).",
-    "ingredientes": "1. Leche entera tibia: 180 g.\n2. Agua: 100 g.\n3. Manteca blanda (punto pomada): 60 g (esto es lo que da el sabor a \"miga\" de panadería).\n4. Miel: 15 g (ayuda a que la miga sea elástica y no se desgrane al cortarla).\n5. Harina 0000: 550 g (sí o sí 0000, la 000 es muy rústica para esto).\n6. Azúcar: 25 g.\n7. Sal: 12 g (en una esquina).\n8. Levadura fresca: 18-20 g (con los líquidos).\n9. Agua: 50g para espumar la levadura con una cucharadita de azúcar y una cucharada de harina.",
-    "procedimiento": "",
-    "tips": "El truco para que parezca de Panadería:\n1. El vapor: Cuando la máquina empiece a hornear, podés pincelar la parte de arriba con un poquito de leche.\n2. El \"Efecto Humedad\": Apenas termine el programa, sacá el pan de la cubeta inmediatamente.\n3. El sudado: Envolvé el pan todavía caliente en un repasador de algodón limpio y después metelo adentro de una bolsa de nylon. Dejalo enfriar ahí adentro. Esto hace que el vapor que desprende el pan \"ablande\" la poca corteza que se formó.\n4. El reposo: Para cortar las láminas finas de la torta, el pan DEBE estar frío de heladera. Si lo cortás tibio, se te va a apelmazar la miga."
-  },
-  {
-    "nombre": "PAN INTEGRAL \"MALTA Y MIEL\" – 1 KG",
-    "configuracion": "Programa: 1 (Pan Básico)\nPeso: 1000 g\nCorteza: Claro (Light) — El extracto de malta ya aporta mucho color.",
-    "ingredientes": "ETAPA 1: El Espumado\n• 80 ml (o g) de Agua tibia.\n• 12 g de Levadura fresca (descongelada).\n• 1 cucharadita de Miel.\n\nETAPA 2: Líquidos (Primero en la cubeta)\n• 260 g de Leche entera (a temperatura ambiente).\n• 40 g de Aceite (girasol o maíz).\n• 10 g (1 cucharadita generosa) de Extracto de Malta.\n• 15 g de Miel.\n• Toda la espuma de la Etapa 1.\n\nETAPA 3: Secos (Sobre los líquidos)\n• 410 g de Harina Integral fina.\n• 150 g de Harina 000.\n\nETAPA 4: Condimento (En una esquina)\n• 2 cucharaditas de Sal (aprox. 10 g).",
-    "procedimiento": "1. Mezclá bien los ingredientes de la Etapa 1 y esperá a que haga esa espuma tipo esponja.\n2. Agregá los líquidos de la Etapa 2 en la cubeta.\n3. Sumá los secos de la Etapa 3.\n4. Poné la sal (Etapa 4) lejos del huequito de la levadura hasta que arranque el amasado.",
-    "tips": "Tip: Calentá la cuchara con agua hirviendo antes de sacar el extracto de malta del frasco para que resbale fácil."
-  },
-  {
-    "nombre": "PAN INTEGRAL \"EL CLÁSICO\" – 1 KG",
-    "configuracion": "Programa: 1 (Pan Básico)\nPeso: 1000 g\nCorteza: Claro (Light) — Al no tener malta, no va a oscurecerse tanto.",
-    "ingredientes": "ETAPA 1: El Espumado (Activación)\n• 80 g de Agua tibia.\n• 12 g de Levadura fresca.\n• 1 cucharadita de Azúcar.\n\nETAPA 2: Líquidos (Primero en la cubeta)\n• 260 g de Leche entera.\n• 65 g de Aceite (girasol o maíz).\n• 35 g de Azúcar común.\n• Toda la espuma de la Etapa 1.\n\nETAPA 3: Secos (Sobre los líquidos)\n• 410 g de Harina Integral fina.\n• 150 g de Harina 000.\n• 30g de leche en polvo (3 cucharas soperas colmadas aprox).\n\nETAPA 4: Condimento (En una esquina)\n• 2 cucharaditas de Sal (unos 10 g).",
-    "procedimiento": "1. Mezclá la Etapa 1 y dejá que se arme la esponja 10-15 minutos.\n2. Colocá todo en orden en la máquina.",
-    "tips": "Recordá: la sal lejos del huequito de la levadura."
-  },
-  {
-    "nombre": "🎄✨ PAN DULCE PREMIUM – 750 g",
-    "configuracion": "Programa 4 – PAN FRANCÉS (4 h total) → es el que mejor desarrolla miga hilada en tu máquina.\nTamaño: 750 g / 1 lb\nCorteza: CLARA o MEDIA (NO oscuro, reseca el pan dulce)",
-    "ingredientes": "LÍQUIDOS (primero en la cubeta):\n• Leche: 110 g\n• Huevos: 2 unidades grandes (aprox. 100 g)\n• Manteca derretida (apenas tibia): 60 g\n• Miel: 20 g\n• Esencia de vainilla: 1 cda\n• Ralladura de 1 limón (solo parte amarilla)\n\nSECOS (encima de los líquidos):\n• Harina 0000: 350 g\n• Azúcar: 70 g\n• Sal: 5 g (en una esquina)\n\nLEVADURA:\n• Levadura fresca: 12 g (la cantidad justa para 4 h sin gusto fuerte)\n\nAGREGADOS:\n• Chips de chocolate o frutos abrillantados: 80–100 g (*NO* pongas aún los chips ni las frutas)",
-    "procedimiento": "",
-    "tips": "🔔 AGREGADO DE FRUTAS / CHIPS: Cuando la máquina haga el bip de agregado (siempre alrededor del minuto 30–32), ahí SÍ ponés los chips o las frutas abrillantadas."
-  },
-  {
-    "nombre": "🥣 PAN DULCE – VERSIÓN MEJORADA Para ~750 g",
-    "configuracion": "*BIP PAN DULCE 2:45*",
-    "ingredientes": "1️⃣ LÍQUIDOS\n1. Leche tibia – 100 g (baja solo un poco porque metemos 2 huevos)\n2. Huevos – 2 (≈100 g) (más miga hilada, más humedad, más estructura brioche)\n3. Yogur natural – 50 g (para humedad extra)\n4. Miel – 30 g (¡subimos la miel! más humedad, más aroma y más dulzor)\n5. Esencia de vainilla – 1½ cucharadas\n6. Ralladura de 1 limón + ½ naranja\n7. Manteca derretida/templada – 50 g (aumentamos porque querías más humedad)\n\n2️⃣ AZÚCARES\n8. Azúcar común – 50 g\n9. Azúcar mascabo – 50 g (pasamos de 70 totales → ahora 100 g totales = MÁS DULCE DE VERDAD)\n\n3️⃣ SECOS\n10. Harina 000 – 250 g\n11. Harina 0000 o 000 – 130 g (total harina: 380 g → se ajusta por 2 huevos + más manteca + más miel)\n12. Sal – 6 g (esquina)\n\n4️⃣ LEVADURA\n13. Levadura fresca – 15 g (subimos un poquito: con más azúcar + más grasa lo necesita)\n\n5️⃣ AGREGADOS (cuando bipée o mitad amasado)\n14. Avellanas picadas grueso – 50 g\n15. Chips de chocolate – 60 g",
-    "procedimiento": "",
-    "tips": "Tirar los chips fríos de heladera para que no se derritan durante el amasado. Si querés que no se hundan, pasalos por 1 cdta de harina."
-  },
-  {
-    "nombre": "Pan dulce (sale bien si se saca 15’ antes) *la mejor receta*",
-    "configuracion": "Programa 3 – PAN DULCE (4 h total)\nTamaño: 750 g / 1 lb\nCorteza: CLARA",
-    "ingredientes": "LÍQUIDOS (primero en la cubeta):\n• Leche: 110 g\n• Huevos: 2 unidades grandes (aprox. 100 g)\n• Manteca derretida (apenas tibia): 60 g\n• Miel: 20 g (30g)\n• Esencia de vainilla: 1 cda\n• Ralladura de 1 limón (solo parte amarilla)\n\nSECOS (encima de los líquidos):\n• Harina 0000 o 000: 350 g\n• Azúcar: 70 g (85g)\n• Sal: 5 g (en una esquina)\n\nLEVADURA:\n• Levadura fresca: 12 g\n\nAGREGADOS:\n• Chips de chocolate o frutos abrillantados: 80–100 g",
-    "procedimiento": "",
-    "tips": "Salió seco, buena masa. CUANDO FALTA 2:45 AGREGAR FRUTAS O CHIPS. El programa 3 es el que mejor desarrolla miga hilada en tu máquina. Sacalo 15' antes de que termine el programa."
-  },
-  {
-    "nombre": "Pan Integral Húmedo y Tierno (Versión Definitiva)",
-    "configuracion": "Programa: 4 (Pan Francés)\nPeso 1000g\nCorteza Clara.",
-    "ingredientes": "Orden de carga:\n• Leche (220g)\n• Yogur natural (50g)\n• Agua a temperatura ambiente (80g)\n• Aceite de oliva (35g)\n• Miel (25g)\n• Harina integral fina (410g)\n• Harina 000 (150g)\n• Sal (10g)\n• Levadura fresca (11-12g para evitar olor a levadura)",
-    "procedimiento": "Después de varios intentos secos, esta es la fórmula que no falla para 1 kg.",
-    "tips": "Lección Aprendida: El yogur, la miel y el aceite son los que retienen la humedad que la harina integral suele absorber."
-  },
-  {
-    "nombre": "Pan de Queso y Orégano (1 kg)",
-    "configuracion": "Programa: 1 (Básico) o 4 (Francés)\nCorteza Clara.",
-    "ingredientes": "• Agua tibia (275g)\n• Manteca derretida (35g)\n• Harina 0000 (550g)\n• Leche en polvo (15g)\n• Azúcar (6g)\n• Sal (10g)\n• Levadura seca (4g)\n• Queso rallado duro (90g)\n• Orégano (1 cda)",
-    "procedimiento": "",
-    "tips": ""
-  },
-  {
-    "nombre": "Masa de Pizza \"Pizzeria\" (Piso Crocante + Borde Aireado)",
-    "configuracion": "Programa: 10 (Masa).",
-    "ingredientes": "• Agua fría o apenas tibia (360g)\n• Aceite (20g)\n• Harina 000 (600g)\n• Sal (12g)\n• Azúcar (2g)\n• Levadura seca (solo 2g para evitar gusto a levadura).",
-    "procedimiento": "",
-    "tips": "Secreto de Cocción: Precalentá el horno al máximo y poné la pizza bien abajo para lograr el piso crocante."
-  },
-  {
-    "nombre": "Masa para Sorrentinos",
-    "configuracion": "Programa: 11 (Amasar) por 10-15 min.",
-    "ingredientes": "• Harina 0000 (300g)\n• 2 huevos\n• Aceite de ajo (10g)\n• Sal (1/2 cdta).",
-    "procedimiento": "",
-    "tips": "Lección: Fundamental dejarla descansar 20 min antes de estirar para que sea flexible."
-  },
-  {
-    "nombre": "Pan Dulce Definitivo (Tu última versión optimizada)",
-    "configuracion": "Ajustado para que NO se queme y sea realmente dulce.",
-    "ingredientes": "• Líquidos: Leche (120g), 2 huevos (100g), Manteca derretida tibia (60g), Miel (30g), Esencia de vainilla (1 cda), Ralladura de 1 limón.\n• Secos: Harina 0000 (250g) + Harina 000 (100g), Azúcar (85g), Sal (5g).\n• Levadura: Levadura seca (6g) o Fresca (12g).\n• Agregados (al Bip a las 2:45 restantes): Chips o frutas (90-110g).",
-    "procedimiento": "",
-    "tips": "El Truco Anti-Quemado: Sacalo 10-15 minutos antes de que termine el programa (aunque esté en \"Claro\") para evitar que se seque o tueste de más."
-  },
-  {
-    "nombre": "PAN BLANCO \"NUBE REAL\" – 1 KG",
-    "configuracion": "Programa: 1 (Pan Básico)\nPeso: 1000 g\nCorteza: Claro (Light)",
-    "ingredientes": "ETAPA 1: El Espumado (Activación)\n• 80 g de Agua tibia (no caliente).\n• 12 g de Levadura fresca (desmenuzada).\n• 10 g de Azúcar (1 cucharadita).\n\nETAPA 2: Líquidos (Primero en la cubeta)\n• 280 g de Agua a temperatura ambiente.\n• 50 g de Aceite (girasol o maíz).\n• 15 g de Azúcar (lo que sobró del total).\n• Toda la espuma de la Etapa 1.\n\nETAPA 3: Secos (Sobre los líquidos)\n• 580 g de Harina 000 (o 0000 si lo querés más tipo \"lactal\").\n• 40 g de Leche en polvo (esto le da el sabor y la textura \"premium\").\n\nETAPA 4: Condimento (En una esquina)\n• 12 g de Sal (aproximadamente 2 cucharaditas).",
-    "procedimiento": "Hacelo en un vasito aparte 10 minutos antes de arrancar. Mezclá bien y esperá a que se forme la espuma. Recordá dejar la sal en un rincón, lejos del centro donde está la levadura.",
-    "tips": "Secretos:\n* Vigilancia del primer amasado: A los 5 o 7 minutos de empezar el programa 1, abrí la tapa. La masa debe ser una bola lisa y elástica que no se pegue a las paredes. Si ves que está muy \"chilre\" (pegajosa), agregá una lluvia de harina; si está muy dura, un chorrito de agua.\n* El reemplazo de la manteca: El aceite hace que el pan sea más elástico, pero la leche en polvo es la que realmente aporta la estructura. No saltees el espumado inicial, eso garantiza que el pan suba derecho.\n* Apenas la máquina pite el final del horneado, sacá el pan inmediatamente. Envolvelo en el repasador de algodón y metelo en la bolsa de nylon mientras esté caliente. Ese vapor atrapará la humedad y te dejará un pan que parece de algodón."
-  },
-  {
-    "nombre": "Receta Pan Árabe 50/50",
-    "configuracion": "Función 10",
-    "ingredientes": "• Agua tibia: 300 g (total, incluyendo el espumado).\n• Levadura fresca: 12 g.\n• Miel: 1 cdta (para el dorado).\n• Harina Integral fina: 250 g.\n• Harina 000: 250 g.\n• Aceite de oliva: 2 cdas (clave para la elasticidad).\n• Sal: 1 cdta y media.",
-    "procedimiento": "",
-    "tips": ""
-  },
-  {
-    "nombre": "PAN INTEGRAL \"MALTA Y MIEL\" – 1 KG (Resumen)",
-    "configuracion": "Programa: 1\nPeso: 1000 g\nCorteza: Claro (Light)",
-    "ingredientes": "ETAPA 1: El Espumado\n• 80 ml (o g) de Agua.\n• 12 g de Levadura fresca (descongelada).\n• 1 cucharadita de Miel.\n\nETAPA 2: Líquidos\n• 260 g de Leche entera.\n• 40 g de Aceite (girasol o maíz).\n• 10 g (1 cucharadita generosa) de Extracto de Malta.\n• 15 g de Miel.\n• Toda la espuma de la Etapa 1.\n\nETAPA 3: Secos\n• 410 g de Harina Integral fina.\n• 150 g de Harina 000.\n\nETAPA 4: Condimento\n• 2 cucharaditas de Sal (aprox. 10 g).",
-    "procedimiento": "",
-    "tips": "Tip: Calentá la cuchara con agua hirviendo antes de sacar el extracto de malta del frasco."
   }
 ]
