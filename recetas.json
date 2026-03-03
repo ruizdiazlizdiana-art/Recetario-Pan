@@ -97,6 +97,20 @@
     "procedimiento": "",
     "tips": "El Truco Anti-Quemado: Sacalo 10-15 minutos antes de que termine el programa (aunque esté en \"Claro\") para evitar que se seque o tueste de más."
   },
+  {
+    "nombre": "Schiacciata Toscana",
+    "configuracion": "Programa: Función 10 (Masa).\nHorno: Precalentá al máximo (250°C). Horneá de 10 a 15 minutos.",
+    "ingredientes": "FASE 1 - BIGA (Día previo):\n• Harina 00: 290 g\n• Agua: 144 g\n• Levadura fresca: 5 g\n\nFASE 2 - MASA FINAL:\n• La Biga (cortada en trocitos)\n• Agua: 260 g\n• Harina 00: 290 g\n• Levadura fresca: 3 g\n• Sal: 12 g\n\nFASE 3 - ARMADO:\n• Sémola rimacinata (o harina de maíz fina)\n• Aceite de oliva y sal gruesa.",
+    "procedimiento": "1. La Biga: Disolvé la levadura en el agua. Mezclá con la harina en un bol hasta integrar (no amasar). Tapalo y dejalo reposar 24 horas a temperatura fresca (aprox 18°C).\n2. Masa Final: Cargá los ingredientes y la biga en trozos en la máquina (Función 10). Al terminar, sacá la masa con las manos aceitadas.\n3. Formado: Cortá la masa en porciones rectangulares. Ponelas en una asadera con mucha sémola abajo. Dejá que dupliquen su tamaño.\n4. Horneado: Hundí los dedos en la masa para crear los huecos, tirale aceite de oliva y sal gruesa. Horneá hasta dorar.",
+    "tips": "Vigilancia: Al principio parecerá un pegote, no agregues harina. Peritaje de éxito: No saltes la sémola, es el secreto del crunch. Si tu horno no llega a 250°C, ponelo al máximo y dejá la placa adentro mientras calienta para que reciba un golpe de calor fuerte desde abajo."
+  },
+  {
+    "nombre": "Blueberry Custard Focaccia",
+    "configuracion": "Programa: Función 10 (Masa).\nHorno: 200°C por unos 20-25 minutos.",
+    "ingredientes": "MASA BASE:\n• Agua (o suero de yogur): 350 ml (tibia)\n• Harina 000: 500 g\n• Azúcar: 80 g\n• Levadura seca: 1 sobre (10 g)\n• Sal: Una pizca\n• Aceite de oliva: 50 ml\n\nCUSTARD (Pastelera express):\n• Leche entera: 250 ml\n• Yemas de huevo: 2\n• Azúcar: 60 g\n• Almidón de maíz (Maicena): 20 g\n• Esencia de vainilla: Un chorro generoso\n\nRELLENO:\n• Arándanos frescos o congelados\n• Azúcar extra para espolvorear",
+    "procedimiento": "1. La Masa: Cargá todo en la máquina (líquidos primero) y dejá que termine el ciclo de la Función 10.\n2. El Custard: Mezclá todo en frío y cociná revolviendo hasta que espese. Dejala enfriar con un film en contacto.\n3. Ensamblaje: Aceitá bien una placa. Volcá la masa, estirala con los dedos y hacé los clásicos huecos de focaccia.\n4. Toque final: Poné cucharaditas del custard en los huecos y hundí los arándanos. Espolvoreá azúcar por arriba.\n5. Horneado: Horneá hasta que los bordes estén dorados y la crema burbujee.",
+    "tips": "Input Crítico: Si usás arándanos congelados, no los descongeles antes, mandalos directo a la masa para que no la tiñan de violeta."
+  },
     {
     "nombre": "El \"Black Out\" (Pan de Cerveza Negra, Cacao y Miel)",
     "configuracion": "Programa: 4 (Pan Francés) – Necesitamos ese tiempo extra de levado.\nPeso: 750 g\nCorteza: Clara (por el azúcar de la cerveza, se dora rápido).",
